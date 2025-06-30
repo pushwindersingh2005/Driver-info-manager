@@ -22,8 +22,3 @@ This app allows you to:
 ## 📸 Demo
 
 ![App Screenshot](App%20Screenshot.png)
-
-> *Replace this with your own screenshot after hosting or running the app locally.*
-
-
-
