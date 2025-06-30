@@ -21,7 +21,7 @@ This app allows you to:
 
 ## 📸 Demo
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Driver+Info+Manager+Demo)
+![App Screenshot](App%20Screenshot.png)
 
 > *Replace this with your own screenshot after hosting or running the app locally.*
 
